@@ -51,6 +51,7 @@ function renderPokemonList(pokemonList ) {
 //     wrapper.classList.add("wrapper");
 //     wrapper.innerHTML += `<a href="details.html?name=${pokemon.name}" class="link" data-link="${pokemon.url}">${pokemon.name}</a>`;
 //   });
+//new version
 }
 
 
