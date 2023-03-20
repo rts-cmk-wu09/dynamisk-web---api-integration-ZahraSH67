@@ -135,4 +135,4 @@ function fetchPokemons(offset) { 
     }
     
     fetchPokemons(offset);
-  
+  //new version

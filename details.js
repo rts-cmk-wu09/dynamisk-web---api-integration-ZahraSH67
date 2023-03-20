@@ -23,4 +23,5 @@ fetch(`https://pokeapi.co/api/v2/pokemon/${nameParam}`).then((response) => respo
         </div>`
         // console.log(data.name)
         // console.log(data.abilities[0].ability.name)
+        //New Version
 })
